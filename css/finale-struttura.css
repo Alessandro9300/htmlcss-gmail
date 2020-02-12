@@ -1,0 +1,115 @@
+body{
+color: white;
+
+
+
+}
+.centratura{
+  /* margin-top: 60px; */
+  width: 800px;
+
+  margin: auto;
+
+
+
+}
+
+.sfondo{
+
+  margin:auto;
+  width: 1200px;
+  height: 650px;
+  background-image: url(../img/legno.jpg);
+}
+
+#immagine{
+width: 150px;
+height: 150px;
+display: inline;
+}
+
+header{
+height: 150px;
+border-bottom: solid white 3px;
+
+
+}
+
+
+
+h1{
+display: inline-block;
+vertical-align: top;
+margin: 0;
+line-height: 150px;
+
+
+/* position: relative;
+bottom: 60px; */
+
+}
+
+#search{
+margin-top: 15px;
+
+}
+
+#casella-search{
+
+  width: 200px;
+  height: 30px;
+  border-radius: 20px;
+  padding-left: 7px;
+  margin-left: 7px;
+}
+
+#button{
+
+border-radius: 20px;
+height: 27px;
+}
+
+h2{
+
+font-size: 40px;
+padding-bottom: 8px;
+border-bottom: solid 3px white;
+
+}
+#notifica{
+
+border: solid 3px #bdbd76;
+background-color: #bbab5069;
+text-align: center;
+border-radius: 100%;
+padding-left: 8px;
+margin-right: 5px;
+
+}
+
+
+.striscia{
+  background-color: #0202025e;
+  border: inset black 2px;
+  margin: 1px 0;
+
+
+
+}
+
+footer{
+text-align: center;
+margin-top: 15px;
+
+}
+
+#logo{
+  font-size: 40px;
+  font-style: italic;
+  display: inline;
+
+
+
+
+
+}
